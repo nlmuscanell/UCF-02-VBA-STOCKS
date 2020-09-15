@@ -95,7 +95,7 @@ open_price =  Cells(row, 3).Value
 
  	Next i
 
- 		' Start next looop to assign cell color: green for positive yearly chance and red for negative change
+ 		' Start next loop to assign cell color: green for positive yearly chance and red for negative change
 
      	' First determine the last row for yearly change'
      	 
